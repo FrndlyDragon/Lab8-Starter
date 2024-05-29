@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Jordan",
     "description": "",
-    "start_url": "",
+    "start_url": "./",
     "display": "browser",
     "background_color": "blue",
     "theme_color": "blue",
