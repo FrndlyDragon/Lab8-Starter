@@ -3,7 +3,7 @@
     "short_name": "Jordan",
     "description": "",
     "start_url": "https://frndlydragon.github.io/Lab8-Starter/",
-    "display": "browser",
+    "display": "standalone",
     "background_color": "blue",
     "theme_color": "blue",
     "icons": [
